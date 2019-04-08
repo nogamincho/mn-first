@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: mn.first
+---
+testFramework: junit
+sourceLanguage: java
